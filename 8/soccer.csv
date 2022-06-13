@@ -1,0 +1,15 @@
+temperature,weather_forecast,humidity,wind,soccer
+29.4,sunny,85,false,false
+26.7,sunny,90,true,false
+28.3,cloudy,78,false,true
+21.1,rainy,96,false,true
+20,rainy,80,false,true
+18.3,rainy,70,true,false
+17.8,cloudy,65,true,true
+22.2,sunny,95,false,false
+20.6,sunny,70,false,true
+23.9,rainy,80,false,true
+23.9,sunny,70,true,true
+22.2,cloudy,90,true,true
+27.2,cloudy,75,false,true
+21.7,rainy,80,true,false
