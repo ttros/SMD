@@ -52,5 +52,3 @@ binning(xx,6,50)
 plt.tight_layout(pad=0, h_pad=1.08, w_pad=1.08)
 plt.savefig('binning/4.pdf')
 plt.close()
-
-

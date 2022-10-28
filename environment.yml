@@ -1,0 +1,23 @@
+---
+name: smd
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.10
+  - numpy
+  - numba
+  - matplotlib=3.5
+  - scipy=1.8
+  - pandas=1
+  - scikit-learn=1.0
+  - ipython=8
+  - ipympl
+  - jupyterlab
+  - jupyter
+  - notebook
+  - flake8
+  - pytest
+  - pytables
+  - tqdm
+  - click=8
